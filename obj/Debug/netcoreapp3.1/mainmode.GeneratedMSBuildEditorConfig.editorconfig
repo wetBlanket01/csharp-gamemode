@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = mainmode
+build_property.ProjectDir = F:\RAGEMP\server-files\dotnet\resources\mainmode\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

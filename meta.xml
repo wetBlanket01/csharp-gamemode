@@ -1,0 +1,4 @@
+<meta>
+    <info name="Mainmode" type="gamemode" description="for u with love" />
+    <script src="bin/Debug/netcoreapp3.1/mainmode.dll" />
+</meta>
